@@ -573,7 +573,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   XSize: 8.8
   ZSize: 8.8
-  foodPrefab: {fileID: 5491177550458267977, guid: 6ee49bcddf6fe1c4d8f03ec2f7f98289, type: 3}
+  foodPrefab: {fileID: 795386014224894956, guid: e69984b43f56c7747923e1171328d12b, type: 3}
   curPos: {x: 0, y: 0, z: 0}
   curFood: {fileID: 0}
 --- !u!65 &897601527
@@ -584,7 +584,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 897601525}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
